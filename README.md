@@ -1,4 +1,4 @@
-##SpatialRef: A Referring Expresion Dataset
+##RefCOCOg-Adv: A Referring Expresion Dataset
 
 This folder contains adversarial annotations for part of the test images from [RefCOCOg dataset](http://bvisionweb1.cs.unc.edu/licheng/referit/data/refcocog.zip).
 
@@ -9,10 +9,10 @@ Bounding box annotations are also from mscoco dataset
 
 
 ##Dataset Summary:
-- In SpatialRef dataset we have have 976 unique images from RefCOCOg test dataset. In total 3704 referring expressions were annotated with an average length of 11.3.
+- In RefCOCOg-adv dataset we have have 976 unique images from RefCOCOg test dataset. In total 3704 referring expressions were annotated with an average length of 11.3.
 
-#Example Annotation of Spatial Ref:
-spatialref_annotations.json contains a dict of advesarial referential expressions, where each annotation is
+#Example Annotation of RefCOCOG-adv:
+refcocog_adv_annotations.json contains a dict of advesarial referential expressions, where each annotation is
 
 ```
 {
